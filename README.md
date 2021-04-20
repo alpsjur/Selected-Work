@@ -1,2 +1,2 @@
 # Selected-Work
-Selection of work, mainly from courses at the University of Oslo
+Selection of reports and code, mainly from courses at the University of Oslo
